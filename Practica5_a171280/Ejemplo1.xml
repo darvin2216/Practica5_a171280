@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/YoShiRo/Documents/UNACH/9no SEMESTRE/SERVICIOS WEB/3 ESTÁNDARES PARA CONSUMO DE SERVICIOS WEB/Practica5_a171280/Ejemplo1.xsl"?>
+<Celulares>
+
+<Celular>
+  <Nombre>Samsung</Nombre>
+  <Modelo>Galaxy S21 Ultra 5G</Modelo>
+  <Precio>$ 5199</Precio>
+</Celular>
+
+<Celular>
+  <Nombre>Samsung</Nombre>
+  <Modelo>Galaxy S21 | S21+ 5G</Modelo>
+  <Precio>$ 18699</Precio>
+</Celular>
+
+<Celular>
+  <Nombre>Samsung</Nombre>
+  <Modelo>Galaxy S20 FE</Modelo>
+  <Precio>$ 14178</Precio>
+
+
+</Celular>
+</Celulares>
